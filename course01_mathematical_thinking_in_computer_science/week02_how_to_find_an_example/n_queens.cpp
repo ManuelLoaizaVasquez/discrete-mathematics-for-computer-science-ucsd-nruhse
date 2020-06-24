@@ -4,7 +4,6 @@ using namespace std;
 typedef long long Long;
 const Long N = 20;
 
-
 bool used[N];
 Long cnt = 0;
 Long n;// tablero de n x n
